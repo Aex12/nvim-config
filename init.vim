@@ -12,7 +12,6 @@ Plug 'sjl/badwolf'
 
 " code analysis tools
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'yaegassy/coc-tailwindcss', {'do': 'npm install --frozen-lockfile', 'branch': 'feat/support-v3-and-use-server-pkg'}
 
 "copilot
 Plug 'github/copilot.vim'
