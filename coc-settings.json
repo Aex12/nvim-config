@@ -1,0 +1,12 @@
+{
+  "suggest.noselect": true,
+  "suggest.selection": "first",
+  "suggest.enablePreselect": false,
+  "languageserver": {
+    "typescript-language-server": {
+      "command": "typescript-language-server",
+      "args": ["--stdio"],
+      "filetypes": ["javascript", "typescript", "javascriptreact", "typescriptreact"]
+    }
+  }
+}
